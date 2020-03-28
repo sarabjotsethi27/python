@@ -1,0 +1,9 @@
+x = "sarab"
+if x == "sarab":
+    # indented four spaces
+    print("x is sarab")
+
+x = 1
+if x == 1:
+    print("x is 1")
+#if x is defined twice it will o/p both
